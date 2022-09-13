@@ -74,7 +74,7 @@ Distributed under the GNU General Public License v3.0 See `LICENSE.txt` for more
 <!-- CONTACT -->
 ## Contact
 
-Phill S - phill@mentlegen.com
+Phill - phill@mentlegen.com
 
 Project Link: [Heat Death](https://github.com/Ph-ill/Heat-Death)
 
@@ -82,10 +82,10 @@ Project Link: [Heat Death](https://github.com/Ph-ill/Heat-Death)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Phill S](https://google.com) - Sprite Design, Animation, Level Design, Game Programming, Sound Design & Writing.
-* [Logan W](https://google.com) - Sprite Design, Animation, Level Design & Game Programming.
-* [Kyra W](https://www.linkedin.com/in/kyrawillans) - Storyboarding & Writing. 
-* [Richard J](https://google.com) - Audio Sampler & Testing.
+* [Phill](https://google.com) - Sprite Design, Animation, Level Design, Game Programming, Sound Design & Writing.
+* [Logan](https://google.com) - Sprite Design, Animation, Level Design & Game Programming.
+* [Kyra](https://www.linkedin.com/in/kyrawillans) - Storyboarding & Writing. 
+* [Richard](https://google.com) - Audio Sampler & Testing.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
