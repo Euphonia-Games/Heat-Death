@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/Ph-ill/Ph-ill.github.io/raw/main/android-chrome-512x512.png" alt="Heat Death" width="80" height="80">
+    <img src="https://github.com/Ph-ill/Ph-ill.github.io/raw/main/android-chrome-512x512.png" alt="Heat Death" width="120" height="120">
   </a>
 
 <h3 align="center">Heat Death</h3>
