@@ -34,11 +34,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/Ph-ill/Ph-ill.github.io/raw/main/android-chrome-512x512.png" alt="Heat Death" width="120" height="120">
+    <img src="https://github.com/Ph-ill/Ph-ill.github.io/raw/main/android-chrome-512x512.png" alt="Heat Death" width="160" height="160">
   </a>
 
 <h3 align="center">Heat Death</h3>
-<h6 align="center">(Working Title)</h6>
+<p align="center">(Working Title)<p>
 
   <p align="center">
      A FOSS game about the death of a world and it's inhabitants 
@@ -90,11 +90,10 @@ Project Link: [Heat Death](https://github.com/Ph-ill/Heat-Death)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Logan W](https://google.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* [Phill S](https://google.com) - Sprite Design, Animation, Level Design, Coding, Sound Design & Writing.
+* [Logan W](https://google.com) - Sprite Design, Animation, Level Design & Coding.
+* [Kyra W]((https://www.linkedin.com/in/kyrawillans) - Storyboarding & Writing. 
+* [Richard J](https://google.com) - Audio Sampler & Testing.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
