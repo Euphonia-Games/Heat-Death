@@ -72,19 +72,12 @@ An independent side scrolling story-driven experience created with [Aseprite](ht
 
 Distributed under the GNU General Public License v3.0 See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 Phill S - phill@mentlegen.com
 
 Project Link: [Heat Death](https://github.com/Ph-ill/Heat-Death)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
