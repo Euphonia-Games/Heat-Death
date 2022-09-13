@@ -35,19 +35,11 @@
   </a>
 
 <h3 align="center">Heat Death</h3>
-<h4 align="center">(Working Title)</h3>
+<h6 align="center">(Working Title)</h6>
 
   <p align="center">
-    project_description
+     A FOSS game about the death of a world and it's inhabitants 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
