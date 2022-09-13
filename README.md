@@ -51,8 +51,7 @@
 ## About The Project
 
 
-An independent side scrolling story-driven experience created with [Aseprite](https://github.com/aseprite/aseprite), [Wick Editor](https://github.com/Wicklets/wick-editor), [GIMP](https://github.com/GNOME/gimp) & [Audacity](https://github.com/audacity/audacity).
-
+A side scrolling exploration and adventure video game created with [Aseprite](https://github.com/aseprite/aseprite), [Wick Editor](https://github.com/Wicklets/wick-editor), [GIMP](https://github.com/GNOME/gimp) & [Audacity](https://github.com/audacity/audacity).
 <!--
 ### Built With
 
