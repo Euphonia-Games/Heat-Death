@@ -85,7 +85,7 @@ Project Link: [Heat Death](https://github.com/Ph-ill/Heat-Death)
 
 * [Phill S](https://google.com) - Sprite Design, Animation, Level Design, Coding, Sound Design & Writing.
 * [Logan W](https://google.com) - Sprite Design, Animation, Level Design & Coding.
-* [Kyra W]((https://www.linkedin.com/in/kyrawillans) - Storyboarding & Writing. 
+* [Kyra W](https://www.linkedin.com/in/kyrawillans) - Storyboarding & Writing. 
 * [Richard J](https://google.com) - Audio Sampler & Testing.
 
 
