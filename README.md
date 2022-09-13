@@ -31,10 +31,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Ph-ill/Ph-ill.github.io/raw/main/android-chrome-512x512.png" alt="Heat Death" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Heat Death</h3>
+<h4 align="center">(Working Title)</h3>
 
   <p align="center">
     project_description
