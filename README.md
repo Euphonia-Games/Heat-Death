@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/Ph-ill/Ph-ill.github.io/raw/main/android-chrome-512x512.png" alt="Heat Death" width="160" height="160">
+    <img src="https://github.com/Ph-ill/Ph-ill.github.io/raw/main/Heat-Death/android-chrome-512x512.png" alt="Heat Death" width="160" height="160">
   </a>
 
 <h3 align="center">Heat Death</h3>
@@ -65,6 +65,7 @@ A side scrolling exploration and adventure video game created with [Aseprite](ht
 * [![JQuery][JQuery.com]][JQuery-url]
 -->
 
+## [Playable Demo](https://ph-ill.github.io/Heat-Death/)
 
 <!-- LICENSE -->
 ## License
