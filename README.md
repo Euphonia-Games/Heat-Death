@@ -67,6 +67,8 @@ A side scrolling exploration and adventure video game created with [Aseprite](ht
 
 ## [Playable Demo](https://ph-ill.github.io/Heat-Death/)
 
+## [Heat Death Wiki](https://github.com/Ph-ill/Heat-Death/wiki/)
+
 <!-- LICENSE -->
 ## License
 
