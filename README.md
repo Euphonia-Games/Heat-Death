@@ -70,7 +70,7 @@ An independent side scrolling story-driven experience created with [Aseprite](ht
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU General Public License v3.0 See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,9 +79,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Phill S - phill@mentlegen.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [Heat Death](https://github.com/Ph-ill/Heat-Death)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,9 +90,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Logan W](https://google.com)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
