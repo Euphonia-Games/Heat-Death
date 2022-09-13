@@ -74,7 +74,7 @@ A side scrolling exploration and adventure video game created with [Aseprite](ht
 
 Distributed under the GNU General Public License v3.0 See `LICENSE.txt` for more information.
 
-Fonts licended under the 1001Fonts Free For Commercial Use License (FFC) See FONTS_LICENSE.txt for more information.
+Fonts licended under the 1001Fonts Free For Commercial Use License (FFC) See 'FONTS_LICENSE.txt' for more information.
 
 <!-- CONTACT -->
 ## Contact
