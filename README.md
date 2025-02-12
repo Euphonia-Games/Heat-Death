@@ -79,7 +79,7 @@ Fonts licended under the 1001Fonts Free For Commercial Use License (FFC) See `FO
 <!-- CONTACT -->
 ## Contact
 
-Phill - phill@mentlegen.com
+Phill - phill.scargill@gmail.com
 
 Project Link: [Heat Death](https://github.com/Ph-ill/Heat-Death)
 
